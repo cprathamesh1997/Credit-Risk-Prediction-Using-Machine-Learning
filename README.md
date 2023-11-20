@@ -42,7 +42,7 @@
 
 ## 8.AutoML with PyCaret:
 
-## a.Utilized PyCaret to perform AutoML, comparing various machine learning models and selecting the best-performing one.Streamlined the model comparison and selection process.
+### a.Utilized PyCaret to perform AutoML, comparing various machine learning models and selecting the best-performing one.Streamlined the model comparison and selection process.
 
 # Conclusion:
 
